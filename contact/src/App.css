@@ -1,0 +1,60 @@
+@import "~antd/dist/antd.css";
+
+button {
+  background-color: white;
+}
+
+.form button {
+  display: none;
+}
+
+.form input {
+  border: none;
+  outline: none;
+  margin-left: 0.5%;
+  width: 66%;
+}
+
+.form {
+  margin-left: 31%;
+  border: 1px solid black;
+  border-radius: 25px;
+  width: 40%;
+  padding: 5px;
+}
+
+.form label {
+  margin-left: 5px;
+}
+
+.Buttons {
+  border: none;
+}
+
+.main-div {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+
+.content-div {
+  width: 100%;
+}
+
+.index-div {
+  display: flex;
+  flex-direction: column;
+  margin-top: 0%;
+  font-size: 10px;
+  margin-left: -5%;
+  padding: 8px 0 8px 0;
+  border: 1px solid grey;
+  border-radius: 25px;
+}
+
+.index-div button {
+  border: none;
+  outline: none;
+  background-color: white;
+  color: blue;
+}

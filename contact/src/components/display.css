@@ -1,0 +1,29 @@
+.hello {
+  border: 1px solid black;
+  padding: 28px;
+  margin-right: 20px;
+}
+
+.box {
+}
+
+.secondaryBox {
+  margin-top: 20px;
+  display: flex;
+}
+
+.red {
+  background-color: red;
+}
+
+.blue {
+  background-color: blue;
+}
+
+.green {
+  background-color: green;
+}
+
+.button {
+  margin-top: 20px;
+}
